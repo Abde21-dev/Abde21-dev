@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour, je suis Abdramane 👋</h2>
+<h2 align="center">Bonjour, je suis Abdramane </h2>
 <p align="center">Devops / Développeur web / Consultant cybersécurité </p>
 
 <br>
